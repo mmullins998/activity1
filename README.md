@@ -29,3 +29,6 @@ www.bbc.com/sport/tennis/
   
 www.cnn.com/sport/tennis/
   News on tennis from CNN.
+  
+http://www.tennisworldusa.org/
+  Tennis World USA news.
